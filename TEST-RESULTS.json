@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "checks": [
+    "jpg: decoded; all 4 output choices below 80 KB",
+    "jpeg: decoded; all 4 output choices below 80 KB",
+    "png: decoded; all 4 output choices below 80 KB",
+    "bmp: decoded; all 4 output choices below 80 KB",
+    "webp: decoded; all 4 output choices below 80 KB",
+    "heic: decoded; all 4 output choices below 80 KB",
+    "1 MB, 2 MB, 10 KB and custom strict size limits",
+    "Input validation and decimal units",
+    "Transparency preserved in Auto; white background for JPEG",
+    "EXIF orientation applied",
+    "Duplicate filenames never overwrite",
+    "Custom/empty affixes, invalid names, collision protection",
+    "Cancellation handled",
+    "Corrupt file rejected",
+    "Action buttons remain inside 760x610 and 560x360 windows at 100/150/200% Tk scaling",
+    "GUI: drop, deduplication, presets, batch, error recovery, saved folder, unchanged originals"
+  ]
+}

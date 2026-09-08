@@ -1,0 +1,48 @@
+ImageReducer Attribution License 1.0
+Copyright (c) 2026 CTP <ctp@ctp.cc>
+
+This license applies to the ImageReducer application distributed with it.
+It does not replace the licenses of third-party components.
+
+1. Permission
+CTP grants permission to use, copy, modify, and redistribute the application,
+including for commercial purposes, subject to the conditions below. No fee
+is required by this license. Application source code is not supplied with
+this distribution, and this license does not require CTP to supply it.
+
+2. Required attribution
+Every redistributed copy, including modified or rebranded versions, must:
+(a) retain this license and the above copyright notice;
+(b) display the credit "ImageReducer by CTP - ctp@ctp.cc" in a readily
+    accessible, visible place in its user interface, such as the main
+    window or an About/Credits panel; and
+(c) include the same credit in its accompanying documentation and on any
+    download page controlled by the redistributor for that copy.
+The existing "CTP · ctp@ctp.cc" main-window credit in ImageReducer satisfies
+the user-interface requirement. A non-graphical derivative must display the
+credit in its normal help or version output. Credit must be legible and
+must not be hidden, misleading, or presented as the redistributor's work.
+Private use or private modifications do not require public announcements.
+
+3. Modified versions and endorsement
+Redistributors must identify material modifications and must not imply
+that CTP endorses, supports, or created their changes. Attribution does not
+grant any right to claim endorsement by CTP.
+
+4. Third-party components
+Third-party components remain governed by their own licenses, including
+their source, notice, modification, and redistribution requirements.
+Nothing in this license restricts rights granted by those licenses,
+including replacement or modification of LGPL libraries and reverse
+engineering for debugging those modifications. The attribution conditions
+above apply to the ImageReducer application, not to standalone copies of
+independently licensed third-party components.
+
+5. No warranty
+THE APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE EXTENT PERMITTED BY LAW,
+CTP AND THE CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE APPLICATION OR ITS USE.
+
+Contact: CTP <ctp@ctp.cc>

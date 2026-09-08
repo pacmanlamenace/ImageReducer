@@ -1,0 +1,6 @@
+source/
+*.py
+*.pyc
+__pycache__/
+*.exe
+_internal/
